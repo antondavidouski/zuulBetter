@@ -18,7 +18,6 @@
 public class Game {
     private Parser parser;
     private Room currentRoom;
-    private int NewNumber;
 
     /**
      * Create the game and initialise its internal map.
